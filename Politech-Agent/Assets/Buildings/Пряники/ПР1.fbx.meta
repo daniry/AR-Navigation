@@ -1,0 +1,220 @@
+fileFormatVersion: 2
+guid: c1c02eafe5ee9fa459ced788de322329
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Doors
+    100002: Floor
+    100004: Lifts
+    100006: Stairs
+    100008: Walls
+    100010: //RootNode
+    100012: "\u041F\u04202101"
+    100014: "\u041F\u04202102"
+    100016: "\u041F\u04202103"
+    100018: "\u041F\u04202104"
+    100020: "\u041F\u04202105"
+    100022: "\u041F\u04202106"
+    100024: "\u041F\u04202107"
+    100026: "\u041F\u04202108"
+    100028: "\u041F\u04202109"
+    100030: "\u041F\u04202110"
+    100032: "\u041F\u04202111"
+    100034: "\u041F\u04202112"
+    100036: "\u041F\u04202114"
+    100038: "\u041F\u04202115"
+    100040: "\u041F\u04202116"
+    100042: "\u041F\u04202117"
+    100044: "\u041F\u0420\u0432\u044B\u0445211"
+    100046: "\u041F\u0420\u043B211"
+    100048: "\u041F\u0420\u043B212"
+    100050: "\u041F\u0420\u043B213"
+    400000: Doors
+    400002: Floor
+    400004: Lifts
+    400006: Stairs
+    400008: Walls
+    400010: //RootNode
+    400012: "\u041F\u04202101"
+    400014: "\u041F\u04202102"
+    400016: "\u041F\u04202103"
+    400018: "\u041F\u04202104"
+    400020: "\u041F\u04202105"
+    400022: "\u041F\u04202106"
+    400024: "\u041F\u04202107"
+    400026: "\u041F\u04202108"
+    400028: "\u041F\u04202109"
+    400030: "\u041F\u04202110"
+    400032: "\u041F\u04202111"
+    400034: "\u041F\u04202112"
+    400036: "\u041F\u04202114"
+    400038: "\u041F\u04202115"
+    400040: "\u041F\u04202116"
+    400042: "\u041F\u04202117"
+    400044: "\u041F\u0420\u0432\u044B\u0445211"
+    400046: "\u041F\u0420\u043B211"
+    400048: "\u041F\u0420\u043B212"
+    400050: "\u041F\u0420\u043B213"
+    2100000: No Name
+    2100002: Material.002
+    2300000: Doors
+    2300002: Floor
+    2300004: Lifts
+    2300006: Stairs
+    2300008: Walls
+    2300010: "\u041F\u04202101"
+    2300012: "\u041F\u04202102"
+    2300014: "\u041F\u04202103"
+    2300016: "\u041F\u04202104"
+    2300018: "\u041F\u04202105"
+    2300020: "\u041F\u04202106"
+    2300022: "\u041F\u04202107"
+    2300024: "\u041F\u04202108"
+    2300026: "\u041F\u04202109"
+    2300028: "\u041F\u04202110"
+    2300030: "\u041F\u04202111"
+    2300032: "\u041F\u04202112"
+    2300034: "\u041F\u04202114"
+    2300036: "\u041F\u04202115"
+    2300038: "\u041F\u04202116"
+    2300040: "\u041F\u04202117"
+    2300042: "\u041F\u0420\u0432\u044B\u0445211"
+    2300044: "\u041F\u0420\u043B211"
+    2300046: "\u041F\u0420\u043B212"
+    2300048: "\u041F\u0420\u043B213"
+    3300000: Doors
+    3300002: Floor
+    3300004: Lifts
+    3300006: Stairs
+    3300008: Walls
+    3300010: "\u041F\u04202101"
+    3300012: "\u041F\u04202102"
+    3300014: "\u041F\u04202103"
+    3300016: "\u041F\u04202104"
+    3300018: "\u041F\u04202105"
+    3300020: "\u041F\u04202106"
+    3300022: "\u041F\u04202107"
+    3300024: "\u041F\u04202108"
+    3300026: "\u041F\u04202109"
+    3300028: "\u041F\u04202110"
+    3300030: "\u041F\u04202111"
+    3300032: "\u041F\u04202112"
+    3300034: "\u041F\u04202114"
+    3300036: "\u041F\u04202115"
+    3300038: "\u041F\u04202116"
+    3300040: "\u041F\u04202117"
+    3300042: "\u041F\u0420\u0432\u044B\u0445211"
+    3300044: "\u041F\u0420\u043B211"
+    3300046: "\u041F\u0420\u043B212"
+    3300048: "\u041F\u0420\u043B213"
+    4300000: "\u041F\u04202111"
+    4300002: "\u041F\u0420\u043B211"
+    4300004: "\u041F\u0420\u043B212"
+    4300006: "\u041F\u0420\u043B213"
+    4300008: "\u041F\u04202108"
+    4300010: "\u041F\u04202101"
+    4300012: "\u041F\u04202107"
+    4300014: "\u041F\u04202102"
+    4300016: "\u041F\u04202103"
+    4300018: "\u041F\u04202104"
+    4300020: "\u041F\u04202109"
+    4300022: "\u041F\u04202110"
+    4300024: "\u041F\u04202105"
+    4300026: "\u041F\u04202106"
+    4300028: "\u041F\u04202117"
+    4300030: "\u041F\u04202116"
+    4300032: "\u041F\u0420\u0432\u044B\u0445211"
+    4300034: "\u041F\u04202112"
+    4300036: "\u041F\u04202115"
+    4300038: "\u041F\u04202114"
+    4300040: Doors
+    4300042: Lifts
+    4300044: Floor
+    4300046: Stairs
+    4300048: Walls
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

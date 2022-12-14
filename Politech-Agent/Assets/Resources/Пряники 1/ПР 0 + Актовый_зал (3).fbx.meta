@@ -1,0 +1,196 @@
+fileFormatVersion: 2
+guid: 88ae151a7ac846948933b19f1167324d
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: doors
+    100002: dot_assemblyhall_Assemblyhall
+    100004: dot_elevator_1
+    100006: dot_elevator_2
+    100008: dot_profkom_Profkom
+    100010: dot_room_1010
+    100012: dot_room_1011
+    100014: dot_room_1012
+    100016: dot_room_1013
+    100018: dot_room_1014
+    100020: ground
+    100022: Highlight_1010
+    100024: Highlight_1011
+    100026: Highlight_1012
+    100028: Highlight_1013
+    100030: Highlight_1014
+    100032: Highlight_assemblyHall
+    100034: Highlight_profkom
+    100036: stairs
+    100038: walls
+    100040: //RootNode
+    400000: doors
+    400002: dot_assemblyhall_Assemblyhall
+    400004: dot_elevator_1
+    400006: dot_elevator_2
+    400008: dot_profkom_Profkom
+    400010: dot_room_1010
+    400012: dot_room_1011
+    400014: dot_room_1012
+    400016: dot_room_1013
+    400018: dot_room_1014
+    400020: ground
+    400022: Highlight_1010
+    400024: Highlight_1011
+    400026: Highlight_1012
+    400028: Highlight_1013
+    400030: Highlight_1014
+    400032: Highlight_assemblyHall
+    400034: Highlight_profkom
+    400036: stairs
+    400038: walls
+    400040: //RootNode
+    2100000: No Name
+    2100002: Material
+    2100004: Material.001
+    2300000: doors
+    2300002: dot_assemblyhall_Assemblyhall
+    2300004: dot_elevator_1
+    2300006: dot_elevator_2
+    2300008: dot_profkom_Profkom
+    2300010: dot_room_1010
+    2300012: dot_room_1011
+    2300014: dot_room_1012
+    2300016: dot_room_1013
+    2300018: dot_room_1014
+    2300020: ground
+    2300022: Highlight_1010
+    2300024: Highlight_1011
+    2300026: Highlight_1012
+    2300028: Highlight_1013
+    2300030: Highlight_1014
+    2300032: Highlight_assemblyHall
+    2300034: Highlight_profkom
+    2300036: stairs
+    2300038: walls
+    3300000: doors
+    3300002: dot_assemblyhall_Assemblyhall
+    3300004: dot_elevator_1
+    3300006: dot_elevator_2
+    3300008: dot_profkom_Profkom
+    3300010: dot_room_1010
+    3300012: dot_room_1011
+    3300014: dot_room_1012
+    3300016: dot_room_1013
+    3300018: dot_room_1014
+    3300020: ground
+    3300022: Highlight_1010
+    3300024: Highlight_1011
+    3300026: Highlight_1012
+    3300028: Highlight_1013
+    3300030: Highlight_1014
+    3300032: Highlight_assemblyHall
+    3300034: Highlight_profkom
+    3300036: stairs
+    3300038: walls
+    4300000: dot_room_1010
+    4300002: Highlight_1010
+    4300004: doors
+    4300006: dot_assemblyhall_Assemblyhall
+    4300008: Highlight_assemblyHall
+    4300010: stairs
+    4300012: walls
+    4300014: ground
+    4300016: dot_profkom_Profkom
+    4300018: Highlight_profkom
+    4300020: dot_elevator_1
+    4300022: dot_elevator_2
+    4300024: dot_room_1011
+    4300026: Highlight_1011
+    4300028: dot_room_1012
+    4300030: Highlight_1012
+    4300032: dot_room_1013
+    4300034: Highlight_1013
+    4300036: dot_room_1014
+    4300038: Highlight_1014
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
